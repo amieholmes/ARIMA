@@ -1,0 +1,2 @@
+# ARIMA
+Initial ARIMA Model
