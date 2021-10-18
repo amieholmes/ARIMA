@@ -1,2 +1,2 @@
 # ARIMA
-Initial ARIMA Model
+Initial time series forecasting with ARIMA - Workflow
